@@ -14,19 +14,6 @@ Welcome to the official repository for VABOrganizer support configurations by Po
 - **Support for Popular Mods**: Configuration files are included for a wide range of popular mods such as Universal Storage II, Tundra Exploration, OPT Space Plane Parts, Artemis Construction Kit, MK-33, and more.
 - **Consistency**: All parts are categorized using an established base list of subcategories, maintaining consistency across different mods.
 
-## Installation
-
-1. **Download the Repository**: Clone or download the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/VABOrganizer-Config-PKMC.git
-   ```
-
-2. **Locate Your KSP GameData Folder**: Navigate to the `GameData` folder in your KSP installation directory.
-
-3. **Copy the Config Files**: Place the configuration files from this repository into the appropriate mod directories within your `GameData` folder.
-
-4. **Launch KSP**: Start Kerbal Space Program and enjoy enhanced VAB organization with your favorite mods.
-
 ## Supported Mods
 
 This repository currently includes VABOrganizer configuration files for the following mods:
