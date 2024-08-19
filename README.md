@@ -55,6 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to the creators of the VABOrganizer mod and all the modders whose work is supported through these configurations.
 
 ---
-
-Feel free to adjust any sections or details according to your specific needs!
-[SDVBAO.zip](https://github.com/user-attachments/files/16661682/SDVBAO.zip)
