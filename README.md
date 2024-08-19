@@ -1,4 +1,4 @@
-# SDVABO_Support
+# VABO_Support
 Config files for part mods to support VABOrganizer by  Post Kerbin Mining Corporation
 Here’s a README for the GitHub repository that houses the configuration files for part mods to support VAB Organizer by Post Kerbin Mining Corporation:
 
@@ -19,10 +19,19 @@ Welcome to the official repository for VABOrganizer support configurations by Po
 This repository currently includes VABOrganizer configuration files for the following mods:
 
 - **Universal Storage II**
-- **Tundra Exploration**
 - **OPT Space Plane Parts**
-- **Artemis Construction Kit**
 - **MK-33**
+
+In Progress:
+**Artemis Construction Kit**
+- **Tundra Exploration**
+- **MDAV**
+- **Buffalo2**
+- **SOCK**
+- **Starship Expansion**
+- **Tantares**
+- **Possibly More**
+
 
 ## Contribution
 
