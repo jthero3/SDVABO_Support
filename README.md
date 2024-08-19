@@ -18,7 +18,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 
 ## Supported Mods
 
-VABOriginzer: https://forum.kerbalspaceprogram.com/topic/225794-112x-vab-organizer-august-18/#comment-4415948
+VABOrganizer: https://forum.kerbalspaceprogram.com/topic/225794-112x-vab-organizer-august-18/#comment-4415948
               https://github.com/post-kerbin-mining-corporation/VABOrganizer
 
 This repository currently includes VABOrganizer configuration files for the following mods:
