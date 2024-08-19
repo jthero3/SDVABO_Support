@@ -4,9 +4,11 @@ Here’s a README for the GitHub repository that houses the configuration files 
 
 ---
 
-# VABOrganizer Support Configurations by Post Kerbin Mining Corporation
+# VABOrganizer Support Configurations
 
-Welcome to the official repository for VABOrganizer support configurations by Post Kerbin Mining Corporation (PKMC). This repository contains configuration files for various part mods to ensure seamless integration and categorization within the VAB (Vehicle Assembly Building) using the VABOrganizer mod in Kerbal Space Program (KSP).
+Welcome to the official repository for VABOrganizer support configurations. This repository contains configuration files for various part mods to ensure seamless integration and categorization within the VAB (Vehicle Assembly Building) using the VABOrganizer mod in Kerbal Space Program (KSP).
+
+--Fun Fact: This is my first KSP mod!
 
 ## Features
 
@@ -15,6 +17,9 @@ Welcome to the official repository for VABOrganizer support configurations by Po
 - **Consistency**: All parts are categorized using an established base list of subcategories, maintaining consistency across different mods.
 
 ## Supported Mods
+
+VABOriginzer: https://forum.kerbalspaceprogram.com/topic/225794-112x-vab-organizer-august-18/#comment-4415948
+              https://github.com/post-kerbin-mining-corporation/VABOrganizer
 
 This repository currently includes VABOrganizer configuration files for the following mods:
 
