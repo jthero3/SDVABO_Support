@@ -35,6 +35,9 @@ In Progress:
 - **SOCK**
 - **Tantares**
 - **Possibly More**
+- **Planetside_Exploration_Technologies**
+- **SOCK**
+- **USI**
 
 
 ## Contribution
