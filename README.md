@@ -55,7 +55,7 @@ We welcome contributions from the community! If you have configurations for addi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+SDVABO © 2024 by SheepDog2142 is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Acknowledgments
 
