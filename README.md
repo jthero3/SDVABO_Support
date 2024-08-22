@@ -29,9 +29,11 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **MDAV**
 - **Artemis Construction Kit**
 - **Starship Expansion**
-- **Buffalo2*
+- **Buffalo2**
 - **Planetside_Exploration_Technologies**
 - **SOCK**
+- **Tantares**
+- **TantaresLV**
 
 In Progress:
 - **Tantares**
