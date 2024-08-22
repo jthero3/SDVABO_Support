@@ -34,6 +34,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **SOCK**
 - **Tantares**
 - **TantaresLV**
+- **ScanSat (Support from Adventurer13)**
 
 In Progress:
 - **Tantares**
