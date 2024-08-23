@@ -29,15 +29,18 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **MDAV**
 - **Artemis Construction Kit**
 - **Starship Expansion**
-
-In Progress:
 - **Buffalo2**
-- **SOCK**
-- **Tantares**
-- **Possibly More**
 - **Planetside_Exploration_Technologies**
 - **SOCK**
+- **Tantares**
+- **TantaresLV**
+- **ScanSat (Support from Adventurer13)**
+
+In Progress:
+- **Tantares**
+- **Dreamer**
 - **USI**
+- **Possibly More**
 
 
 ## Contribution
@@ -55,7 +58,7 @@ We welcome contributions from the community! If you have configurations for addi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+SDVABO © 2024 by SheepDog2142 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Acknowledgments
 
