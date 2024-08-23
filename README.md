@@ -35,6 +35,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **Tantares**
 - **TantaresLV**
 - **ScanSat (Support from Adventurer13)**
+- **JX2Antenna** (Support from Adventurer13)
 
 In Progress:
 - **Tantares**
