@@ -64,7 +64,7 @@ We welcome contributions from the community! If you have configurations for addi
 
 ## License
 
-SDVABO © 2024 by SheepDog2142 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+VABOrganizer-Sheepdog © 2024 by SheepDog is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Acknowledgments
 
