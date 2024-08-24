@@ -36,6 +36,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **TantaresLV**
 - **Photon Corp**
 - **Procedural Parts**
+- **Taerobee**
 - **ModularComputerPackageRevived**
 - **Standalone "Cores" subcatagory**
 - **ScanSat (Support from Adventurer13)**
