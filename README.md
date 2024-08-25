@@ -23,13 +23,10 @@ VABOrganizer: https://github.com/post-kerbin-mining-corporation/VABOrganizer
 This repository currently includes VABOrganizer configuration files for the following mods:
 
 - **Universal Storage II**
-- **OPT Space Plane Parts**
-- **MK-33**
 - **Tundra Exploration**
 - **MDAV**
 - **Artemis Construction Kit**
 - **Starship Expansion**
-- **Buffalo2**
 - **Planetside_Exploration_Technologies**
 - **SOCK**
 - **Tantares**
@@ -39,8 +36,17 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **Taerobee**
 - **ModularComputerPackageRevived**
 - **Standalone "Cores" subcatagory**
-- **ScanSat (Support from Adventurer13)**
+- **ScanSat** (Support from Adventurer13)
 - **JX2Antenna** (Support from Adventurer13)
+- **RemoteTech-Antennas** (Support from Adventurer13)
+- **Airplane Plus** (Support from JadeOfMaar)
+- **CryoEnginesExtensions** (Support from JadeOfMaar)
+- **KPBS** (Support from JadeOfMaar)
+
+Removed/Moved:
+- **OPT Space Plane Parts** (VAB Organizer - Jade's Configs)
+- **MK-33** (VAB Organizer - Jade's Configs)
+- **Buffalo2** (VAB Organizer - Jade's Configs)
 
 In Progress:
 - **Tantares**
