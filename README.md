@@ -35,6 +35,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **Procedural Parts**
 - **Taerobee**
 - **ModularComputerPackageRevived**
+- **Mk-X Spaceplane Parts**
 - **Standalone "Cores" subcatagory**
 - **ScanSat** (Support from Adventurer13)
 - **JX2Antenna** (Support from Adventurer13)
@@ -49,8 +50,11 @@ Removed/Moved:
 - **Buffalo2** (VAB Organizer - Jade's Configs)
 
 In Progress:
-- **Tantares**
-- **Dreamer**
+- **Nice MKseries Body**
+- **HabTech2**
+- **Less Real Than Real parts**
+- **Less Real Than Real Kerbalism parts**
+- **Mk2 Stockalike Expansion**
 - **USI**
 - **Possibly More**
 
