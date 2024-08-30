@@ -46,19 +46,13 @@ This repository currently includes VABOrganizer configuration files for the foll
 
 ===========On 1.2 Dev Branch================
 * Mk-X Spaceplane Parts
-
 * Kerbalism
-
 * Less Real Than Real(ism) & LRTR-Kerbalism
-
 * Mark IV Spaceplane System
-
 * KODS - Kiwi Orbital Designs Services
-
-*  BREAD - Bruno's Rocket Emporium And Designs
-
+* BREAD - Bruno's Rocket Emporium And Designs
+* Provenance Aerospace
 * DMagic Orbital Science (Support from Adventurer13)
-
 * Subcategories: LifeSupport
 
 Removed/Moved:
