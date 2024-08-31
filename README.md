@@ -44,6 +44,17 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **CryoEnginesExtensions** (Support from JadeOfMaar)
 - **KPBS** (Support from JadeOfMaar)
 
+===========On 1.2 Dev Branch================
+* Mk-X Spaceplane Parts
+* Kerbalism
+* Less Real Than Real(ism) & LRTR-Kerbalism
+* Mark IV Spaceplane System
+* KODS - Kiwi Orbital Designs Services
+* BREAD - Bruno's Rocket Emporium And Designs
+* Provenance Aerospace
+* DMagic Orbital Science (Support from Adventurer13)
+* Subcategories: LifeSupport
+
 Removed/Moved:
 - **OPT Space Plane Parts** (VAB Organizer - Jade's Configs)
 - **MK-33** (VAB Organizer - Jade's Configs)
@@ -52,10 +63,9 @@ Removed/Moved:
 In Progress:
 - **Nice MKseries Body**
 - **HabTech2**
-- **Less Real Than Real parts**
-- **Less Real Than Real Kerbalism parts**
 - **Mk2 Stockalike Expansion**
-- **USI**
+- **USI** (Support from Adventurer13)
+- **Deep Freez** (Support from Adventurer13)
 - **Possibly More**
 
 
