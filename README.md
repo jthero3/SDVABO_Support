@@ -53,6 +53,10 @@ This repository currently includes VABOrganizer configuration files for the foll
 * BREAD - Bruno's Rocket Emporium And Designs
 * Provenance Aerospace
 * DMagic Orbital Science (Support from Adventurer13)
+* DeepFreeze Continued (Support from Adventurer13)
+* Global Construction (Support from Adventurer13)
+* SpaceY (Support from zhangyuesai)
+* Lithobrake (Support from zhangyuesai)
 * Subcategories: LifeSupport
 
 Removed/Moved:
