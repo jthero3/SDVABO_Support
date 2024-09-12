@@ -45,7 +45,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **DMagic Orbital Science (Support from Adventurer13)**
 - **DeepFreeze Continued (Support from Adventurer13)**
 - **Global Construction (Support from Adventurer13)**
-- ** USI Series** (Support from Adventurer13)
+- ** USI Series** (Support from Adventurer13 & jthero3)
 - **SpaceY (Support from zhangyuesai)**
 - **Lithobrake (Support from zhangyuesai)**
 - Subcategories: LifeSupport
