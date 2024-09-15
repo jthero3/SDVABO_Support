@@ -36,6 +36,19 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **Taerobee**
 - **ModularComputerPackageRevived**
 - **Mk-X Spaceplane Parts**
+- **Kerbalism**
+- **Less Real Than Real(ism) & LRTR-Kerbalism**
+- **Mark IV Spaceplane System**
+- **KODS - Kiwi Orbital Designs Services**
+- **BREAD - Bruno's Rocket Emporium And Designs**
+- **Provenance Aerospace**
+- **DMagic Orbital Science (Support from Adventurer13)**
+- **DeepFreeze Continued (Support from Adventurer13)**
+- **Global Construction (Support from Adventurer13)**
+- **USI Series** (Support from Adventurer13 & jthero3)
+- **SpaceY (Support from zhangyuesai)**
+- **Lithobrake (Support from zhangyuesai)**
+- Subcategories: LifeSupport
 - **Standalone "Cores" subcatagory**
 - **ScanSat** (Support from Adventurer13)
 - **JX2Antenna** (Support from Adventurer13)
@@ -45,19 +58,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **KPBS** (Support from JadeOfMaar)
 
 ===========On 1.2 Dev Branch================
-* Mk-X Spaceplane Parts
-* Kerbalism
-* Less Real Than Real(ism) & LRTR-Kerbalism
-* Mark IV Spaceplane System
-* KODS - Kiwi Orbital Designs Services
-* BREAD - Bruno's Rocket Emporium And Designs
-* Provenance Aerospace
-* DMagic Orbital Science (Support from Adventurer13)
-* DeepFreeze Continued (Support from Adventurer13)
-* Global Construction (Support from Adventurer13)
-* SpaceY (Support from zhangyuesai)
-* Lithobrake (Support from zhangyuesai)
-* Subcategories: LifeSupport
+
 
 Removed/Moved:
 - **OPT Space Plane Parts** (VAB Organizer - Jade's Configs)
@@ -68,8 +69,6 @@ In Progress:
 - **Nice MKseries Body**
 - **HabTech2**
 - **Mk2 Stockalike Expansion**
-- **USI** (Support from Adventurer13)
-- **Deep Freez** (Support from Adventurer13)
 - **Possibly More**
 
 
