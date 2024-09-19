@@ -42,6 +42,7 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **KODS - Kiwi Orbital Designs Services**
 - **BREAD - Bruno's Rocket Emporium And Designs**
 - **Provenance Aerospace**
+- **ORANGES**
 - **DMagic Orbital Science (Support from Adventurer13)**
 - **DeepFreeze Continued (Support from Adventurer13)**
 - **Global Construction (Support from Adventurer13)**
